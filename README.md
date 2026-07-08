@@ -7,5 +7,10 @@
   <img src="https://github.com/user-attachments/assets/c452a61a-116b-4305-8853-ce67c0397519" width="500">
 </p>
 
-
-
+# Features
+- 4 Channel low side Switching
+- High current capability
+- Logic level controlling
+- Flyback proctection
+- Low power comsumption 
+- Status indicator 
