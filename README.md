@@ -14,3 +14,27 @@
 - Flyback proctection
 - Low power comsumption 
 - Status indicator 
+
+
+## Applications
+- Mini robotics projects
+- dc motor control
+- LED control systems
+- IoT automation
+- ESP32/Raspberry Pi projects
+- Mini drones
+
+
+## Cost 
+| Item | Quantity | Price |
+|---|---:|---:|
+| SS34 Diode | 4 | $0.28 |
+| AO3400 mosfet | 4 | $0.40 |
+| 10kΩ Resistor (0603) | 4 | $0.04 |
+| LED | 1 | $0.02 |
+| 1kΩ Resistor | 1 | $0.01 |
+| **LCSC Components Total** | | **$3.28** |
+| PCB Manufacturing (JLCPCB) | 1 | $1.18 |
+| LCSC Handling Fee | 1 | $3.00 |
+| Shipping | 1 | $9.17 |
+| **Total Cost** | | **$16.63** |
