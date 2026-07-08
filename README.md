@@ -25,6 +25,16 @@
 - Mini drones
 
 
+<h1 align="center">Schematics</h1>
+<img align="center" " alt="image" src="https://github.com/user-attachments/assets/2071ebcf-023e-44e5-bf6d-4b2ee16f95e9" />
+
+<h1 align="center">Layers</h1>
+<div align="center">Top Layer<br><img  alt="Screenshot 2026-05-18 131940" src="https://github.com/user-attachments/assets/d5ac0c0b-b83c-4b6b-8e2c-f56e857b15b9"/></br>Bottom Layer<br><img alt="Screenshot 2026-05-18 131951" src="https://github.com/user-attachments/assets/3400f063-24f8-4312-8b84-8bc40016d272" /></div>
+</br>
+
+
+
+
 ## Cost 
 | Item | Quantity | Price |
 |---|---:|---:|
