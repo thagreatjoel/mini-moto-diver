@@ -3,6 +3,9 @@
 
 <p align="center" >An open source simple single channel motor driver especially for mini coreless motor </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c452a61a-116b-4305-8853-ce67c0397519" width="500">
+</p>
 
 
 
